@@ -30,4 +30,4 @@ predict = svmpredict(y, X, model);
 % Find Indices of Positive and Negative Examples
 %convert from y={1,2} to y={0,1} for plotting
 
-%print -dpng hwk6_q8.png
+
